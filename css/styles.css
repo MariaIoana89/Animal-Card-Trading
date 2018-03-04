@@ -1,0 +1,47 @@
+.animalcard {
+    border: 3px solid gray;
+    box-shadow: 10px 10px 4px -5px rgba(0,0,0,0.2);
+    width: 300px;
+    padding: 10px;
+    margin: 2px;
+    background-color: lightgreen;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.budgy {
+    border: 1px solid gray;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: auto;
+    border-radius: 2px;
+}
+
+.riri-info {
+    border: 1px solid gray;
+    border-radius: 2px;
+    padding: 5px;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nume {
+    border: 3px solid white;
+    border-radius: 3px;
+    text-align: left;
+    padding: 5px;
+    margin: 2px;
+    font-size: 30px;
+}
+
+.stil {
+    font-style: italic;
+}
